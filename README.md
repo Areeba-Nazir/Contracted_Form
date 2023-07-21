@@ -17,4 +17,5 @@ matches.extend(cfcr['cfcr'])
 
 Check out: https://github.com/Areeba-Nazir/Contracted_Form
 PIP package
-https://pypi.org/project/CF-ALGO-1609/0.0.0/
+
+https://pypi.org/project/CF-Algorithm/1.0/
